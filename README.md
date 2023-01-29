@@ -2,4 +2,4 @@
 
 
 ### v1.0.0
-##### Using Ctrl + Alt + F on Mac
+##### Using Ctrl + Alt + j on Mac
