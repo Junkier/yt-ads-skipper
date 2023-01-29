@@ -1,0 +1,3 @@
+1. yt 用 base.js 控制全部, 包含 call ads API & 決定是否產生 skip ads 的 button
+2. 有個全域變數叫 _yt_player , 裡面為 uglyfied 的 function 
+3. skipButton ?! , 關鍵詞 skip 
